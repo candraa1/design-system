@@ -282,3 +282,45 @@
 .contact-form button:hover {
   background-color: #084298;
 }
+
+
+
+/* Halaman About */
+.about-page {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Header About */
+.about-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.about-header h1 {
+  font-size: 28px;
+  color: #1f2937;
+}
+
+.about-header p {
+  font-size: 16px;
+  color: #6c757d;
+}
+
+/* Konten About */
+.about-content h2 {
+  margin-top: 20px;
+  font-size: 22px;
+  color: #1f2937;
+}
+
+.about-content p {
+  font-size: 16px;
+  color: #495057;
+  margin: 10px 0;
+  line-height: 1.6;
+}
